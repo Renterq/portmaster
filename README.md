@@ -35,4 +35,4 @@ Kullanıcıların terminale yapıştıracağı şu kod tam bir ustalık eseri:
 Terminalinizi açın ve aşağıdaki tek satırlık kodu kopyalayıp yapıştırın. Bu kod aracı indirecek, kurulum sihirbazını başlatacak ve kurulum bitince indirilen kalıntı dosyasını otomatik olarak silecektir:
 
 ```bash
-curl -sLO https://raw.githubusercontent.com/renterq/PortMaster/main/portmaster.sh && sudo bash portmaster.sh && rm portmaster.sh
+curl -sLO https://raw.githubusercontent.com/Renterq/PortMaster/main/PortMaster.sh && sudo bash PortMaster.sh && rm PortMaster.sh
