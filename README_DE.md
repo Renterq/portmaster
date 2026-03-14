@@ -25,4 +25,4 @@ Made by RENTER 🚀
 
 Öffnen Sie Ihr Terminal und fügen Sie den folgenden einzeiligen Code ein. Dieser Code lädt das Tool herunter, startet den Installationsassistenten und löscht die Installationsdatei automatisch nach Abschluss:
 ```bash
-curl -sLO https://raw.githubusercontent.com/renterq/PortMaster/main/portmaster.sh && sudo bash portmaster.sh && rm portmaster.sh
+curl -sLO https://raw.githubusercontent.com/Renterq/PortMaster/main/PortMaster.sh && sudo bash PortMaster.sh && rm PortMaster.sh
