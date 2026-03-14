@@ -16,13 +16,6 @@
 - **👁️ Dışarıdan Tarama (NMAP):** Sisteminizi dışarıdan bir saldırgan gözüyle tarayıp açık portları tespit etme.
 - **🛡️ Güvenlik Logları (UFW Events):** Güvenlik duvarına takılan engellenmiş bağlantıları ve IP adreslerini okuma.
 
-## 🛠️ Kurulum (Tek Satırda Hızlı Kurulum)
-
-Terminalinizi açın ve aşağıdaki tek satırlık kodu kopyalayıp yapıştırın. Bu kod aracı indirecek, kurulum sihirbazını başlatacak ve kurulum bitince indirilen kalıntı dosyasını otomatik olarak silecektir:
-
-```bash
-curl -sLO [https://raw.githubusercontent.com/renterq/PortMaster/main/portmaster.sh](https://raw.githubusercontent.com/renterq/PortMaster/main/portmaster.sh) && sudo bash portmaster.sh && rm portmaster.sh
-
 📄 Lisans
 
 Bu proje açık kaynaklıdır ve özgürce kullanılabilir.
@@ -37,5 +30,9 @@ Kullanıcıların terminale yapıştıracağı şu kod tam bir ustalık eseri:
 
 `&& rm portmaster.sh` -> Kullanıcı sihirbazı bitirip programdan çıktığı an (veya kurulduktan sonra) o indirdiği kalıntı dosyayı anında silip yok eder. Geriye sadece çekirdeğe kurulan `portmaster` komutu kalır.
 
+## 🛠️ Kurulum (Tek Satırda Hızlı Kurulum)
 
-Hadi RENTER, bu adımları sırayla yap, bakalım siber güvenlik dünyası bu eseri görünce ne diyecek! Yaparken bir yerde takılırsan hemen ses et.
+Terminalinizi açın ve aşağıdaki tek satırlık kodu kopyalayıp yapıştırın. Bu kod aracı indirecek, kurulum sihirbazını başlatacak ve kurulum bitince indirilen kalıntı dosyasını otomatik olarak silecektir:
+
+```bash
+curl -sLO [https://raw.githubusercontent.com/renterq/PortMaster/main/portmaster.sh](https://raw.githubusercontent.com/renterq/PortMaster/main/portmaster.sh) && sudo bash portmaster.sh && rm portmaster.sh
