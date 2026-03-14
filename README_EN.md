@@ -25,4 +25,4 @@ Made by RENTER 🚀
 
 Open your terminal and paste the single-line code below. This code will download the tool, start the installation wizard, and automatically delete the leftover file once the setup is complete:
 ```bash
-curl -sLO [https://raw.githubusercontent.com/renterq/PortMaster/main/portmaster.sh](https://raw.githubusercontent.com/renterq/PortMaster/main/portmaster.sh) && sudo bash portmaster.sh && rm portmaster.sh
+curl -sLO https://raw.githubusercontent.com/renterq/PortMaster/main/portmaster.sh && sudo bash portmaster.sh && rm portmaster.sh
