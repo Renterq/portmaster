@@ -25,4 +25,4 @@ Made by RENTER 🚀
 
 Откройте терминал и вставьте приведенный ниже код. Этот код скачает инструмент, запустит мастер установки и автоматически удалит установочный файл после завершения:
 ```bash
-curl -sLO [https://raw.githubusercontent.com/renterq/PortMaster/main/portmaster.sh](https://raw.githubusercontent.com/renterq/PortMaster/main/portmaster.sh) && sudo bash portmaster.sh && rm portmaster.sh
+curl -sLO https://raw.githubusercontent.com/renterq/PortMaster/main/portmaster.sh && sudo bash portmaster.sh && rm portmaster.sh
