@@ -9,7 +9,7 @@ R="\e[1;31m"
 W="\e[1;37m"
 N="\e[0m"
 
-# ====================================
+# 
 # AUTO-INSTALLER (KENDİ KENDİNİ KURMA 
 # ================================
 SCRIPT_PATH=$(realpath "$0")
