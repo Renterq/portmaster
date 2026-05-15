@@ -1,6 +1,5 @@
 #!/bin/bash
 
-# Renkler
 G="\e[1;32m"
 B="\e[1;34m"
 C="\e[1;36m"
